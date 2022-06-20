@@ -1,4 +1,4 @@
-# CS210 Project Three: Grocery Tracker
+# CS-210 Programming Languages
 
 ## Table of Contents
 
