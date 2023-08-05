@@ -2,7 +2,7 @@
 	CS 210, Source.cpp
 	Purpose: Grocery item tracking for Corner Grocer store.
 
-	@author Austin Johnson
+	@author Jacob Winters
 	@date 06/16/2021
 */
 
